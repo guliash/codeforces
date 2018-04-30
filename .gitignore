@@ -1,2 +1,6 @@
 .idea
 *.iml
+out
+CHelperReport.txt
+src/Main.java
+src/com/guliash/codeforces/tasks
